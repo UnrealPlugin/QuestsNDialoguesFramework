@@ -26,6 +26,7 @@ public class QuestsNDialoguesFramework : ModuleRules
 			new string[]
 			{
 				"Core",
+				"ArticyRuntime",
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
